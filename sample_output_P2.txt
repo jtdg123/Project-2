@@ -1,0 +1,10 @@
+[Producer 1] Produced item: 57 at index 0
+[Consumer 1] Consumed item: 57 at index 0
+[Producer 1] Produced item: 42 at index 1
+[Producer 1] Produced item: 33 at index 2
+[Consumer 1] Consumed item: 42 at index 1
+[Consumer 2] Consumed item: 33 at index 2
+[Producer 2] Produced item: 91 at index 3
+[Producer 2] Produced item: 16 at index 4
+[Consumer 2] Consumed item: 91 at index 3
+[Consumer 1] Consumed item: 16 at index 4

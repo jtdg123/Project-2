@@ -1,0 +1,10 @@
+CC = gcc
+CFLAGS = -Wall -pthread
+
+all: sync_threads
+
+sync_threads: sync_threads.c
+	$(CC) $(CFLAGS) -o sync_threads sync_threads.c
+
+clean:
+	rm -f sync_threads
